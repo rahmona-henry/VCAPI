@@ -1,0 +1,22 @@
+{
+  "name": "vcapi",
+  "version": "1.0.0",
+  "description": "Testing the HS Video Conferencing API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmona-henry/VCAPI.git"
+  },
+  "author": "rahmona henry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahmona-henry/VCAPI/issues"
+  },
+  "homepage": "https://github.com/rahmona-henry/VCAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
